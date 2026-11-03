@@ -139,8 +139,8 @@ Therefore, a successful SQL Injection demonstration could not be verified and is
 
 The project includes practical recordings of the HTTP Flood and authentication testing.
 
-- **HTTP Flood Demonstration:** [Add video link here]
-- **Authentication Testing Demonstration:** [Add video link here]
+- **HTTP Flood Demonstration:** https://youtu.be/kxF4492LrKA
+- **Authentication Testing Demonstration:** https://youtu.be/0ib9IsnJqkQ
 
 ## Key Learnings
 
